@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: Direito
-    url: direito/
+    url: post/
     weight: 30    
