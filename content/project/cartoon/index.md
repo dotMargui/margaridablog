@@ -6,7 +6,6 @@ authors:
   - admin
 tags:
   - receitas
-external_link: ""
 image:
   filename: featured.jpeg
   focal_point: Smart
