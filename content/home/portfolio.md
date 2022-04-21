@@ -26,14 +26,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Receitas
+      tag: Receitas
+    - name: Lifestyle
+      tag: Lifestyle
+    - name: Moda & Decor
+      tag: Moda & Decor
+    - name: Todos
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
 
 design:
   columns: '1'
