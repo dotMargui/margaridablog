@@ -1,7 +1,7 @@
 ---
 title: Cabrito no forno com arroz de miúdos
 date: 2022-01-01
-summary: Write about your project here...
+summary:
 authors:
   - admin
 tags:
