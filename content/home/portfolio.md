@@ -32,8 +32,6 @@ content:
       tag: lifestyle
     - name: Moda & Decor
       tag: moda & decor
-    - name: Direito
-      tag: direito  
     - name: Todos
       tag: '*'
 
