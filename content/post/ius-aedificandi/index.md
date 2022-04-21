@@ -33,10 +33,8 @@ authors:
 
 
 tags:
-- Law
-- Urban Planning
 - Direito do Urbanismo
-- jus aedificandi 
+- Jus aedificandi 
 - Trabalhos
 
 categories:

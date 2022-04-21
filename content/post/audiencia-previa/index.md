@@ -33,7 +33,6 @@ authors:
 
 
 tags:
-- Law
 - Direito da União Europeia
 - Direito Administrativo
 - Audiência prévia
