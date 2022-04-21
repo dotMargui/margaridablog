@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Jurista apaixonada por cozinha tradicional e saudável.
 
 #interests:
 #- Artificial Intelligence
@@ -61,8 +61,10 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bem-vindo/a ao meu blog!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Neste espaço encontrarás um pouco de tudo o que é importante na minha vida: desde conteúdo relacionado com a minha paixão profissional - o Direito - até a receitas e dicas para viver uma vida (física e mentalmente) saudável, bem como publicações relativas a outros dos meus passatempos, como moda e decoração. Embora seja "meu", este é um blog de partilha, com espaço para de tudo um pouco, incluindo as sugestões de quem o encontrar e achar útil! 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Actualmente, encontro-me a escrever a minha dissertação de Mestrado sobre a utilização de inteligência artificial na Administração Pública. É uma tarefa árdua, mas que faço com gosto, já que adoro investigar e aprender coisas novas. 
+
+{{< icon name="download" pack="fas" >}} Se tiveres interesse na minha actividade profissional, podes fazer o {{< staticref "uploads/resume.pdf" "newtab" >}}download{{< /staticref >}} do meu CV em PDF.
