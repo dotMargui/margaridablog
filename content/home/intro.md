@@ -21,4 +21,4 @@ author: admin
 Olá! Eu sou a **Margarida**. À procura de inspiração? Vieste ao sítio certo!
 {style="font-size: 1.2rem; background: #545454; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Sabe mais [sobre mim aqui](/about/) 😍
+Sabe mais sobre mim [aqui](/about/) 😍
