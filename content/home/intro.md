@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+Olá! Eu sou a **Margarida**. À procura de inspiração? Vieste ao sítio certo!
 {style="font-size: 1.2rem; background: #545454; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+Sabe mais [sobre mim aqui](/about/) 😍
