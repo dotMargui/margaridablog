@@ -1,8 +1,14 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
-tags:
-  - CV
+title: Cabrito no forno com arroz de miúdos
 date: 2022-01-01
-external_link: http://github.com
+summary: Write about your project here...
+authors:
+  - admin
+tags:
+  - receitas
+external_link: ""
+image:
+  filename: featured.jpeg
+  focal_point: Smart
 ---
+Receita aqui
