@@ -7,9 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Sobre mim
-    url: about/
-    weight: 20
   - name: Direito
     url: post/
+    weight: 20
+  - name: Sobre mim
+    url: about/
     weight: 30    
