@@ -27,11 +27,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: Receitas
-      tag: Receitas
+      tag: receitas
     - name: Lifestyle
-      tag: Lifestyle
+      tag: lifestyle
     - name: Moda & Decor
-      tag: Moda & Decor
+      tag: moda & decor
+    - name: Direito
+      tag: direito  
     - name: Todos
       tag: '*'
 
