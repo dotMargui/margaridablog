@@ -18,9 +18,11 @@ Na nossa família, não há Páscoa sem o tradicional cabrito (ou borrego - vari
 Este ano acompanhámos com grelos salteados em azeite e alho, batatas assadas e arroz com os miúdos do cabrito. É uma receita em que o segredo está no tempero e na paciência. 
 
 _Dose_: 8 pessoas 
+
 _Tempo_: 60+ minutos 
 
 _Ingredientes:_
+
 Para o cabrito:
 - 4,5 kg de cabrito
 - 1/2 cabeça de alho
