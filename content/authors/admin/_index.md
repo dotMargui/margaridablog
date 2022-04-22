@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:margaridapedro@tuta.io' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/margaridaopedro/
     
 # Uncomment below for Github link
 #- icon: github
