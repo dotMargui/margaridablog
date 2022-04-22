@@ -64,7 +64,7 @@ social:
 #email: ""
 ---
 
-Bem-vindo/a ao meu blog!
+Bem-vinda/o ao meu blog!
 
 Neste espaço encontrarás um pouco de tudo o que é importante na minha vida: desde conteúdo relacionado com a minha paixão profissional - o Direito - até a receitas e dicas para viver uma vida (física e mentalmente) saudável, bem como publicações relativas a outros dos meus passatempos, como moda e decoração. Embora seja "meu", este é um blog de partilha, com espaço para de tudo um pouco, incluindo as sugestões de quem o encontrar e achar útil! 
 
