@@ -7,7 +7,7 @@ main:
   - name: Home 
     url: /
     weight: 10
-  - name: Artigos Jurídicos
+  - name: ⚖️ Artigos Jurídicos
     url: post/
     weight: 20
   - name: Sobre mim 
