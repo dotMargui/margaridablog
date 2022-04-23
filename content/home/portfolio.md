@@ -21,7 +21,7 @@ content:
   filter_default: 0
 
   # Field to sort by, such as Date or Title
-  sort_by: 'date'
+  sort_by: 'Date'
   sort_ascending: false
 
   # Filter toolbar (optional).
