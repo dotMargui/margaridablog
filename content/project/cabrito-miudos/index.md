@@ -9,6 +9,7 @@ tags:
   - cabrito
   - páscoa
   - tradicional
+  - sem glúten
 image:
   filename: featured.jpeg
   focal_point: Smart
