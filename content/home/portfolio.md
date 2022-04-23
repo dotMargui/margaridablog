@@ -10,6 +10,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+# Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
+
 title: ''
 subtitle: ''
 
