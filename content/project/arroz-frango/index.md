@@ -18,6 +18,7 @@ image:
 Quem não adora um bom arroz de pato? É uma das minhas receitas preferidas, mas devido ao custo (e também ao trabalho que dá arranjar a carne) é um prato que, usualmente, guardamos para datas especiais. Esta versão leva peitos de frango em vez de pato, mas, de resto, é igual à receita do arroz de pato da minha avó. Sai mais barato e não é nada trabalhoso. 
 
 _Dose_: 2 pessoas (que comem bem!)
+
 _Tempo_: 60 minutos
 
 _Ingredientes_:
