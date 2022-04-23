@@ -10,10 +10,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-# Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
-
 title: ''
 subtitle: ''
 
@@ -23,6 +19,10 @@ content:
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
+
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
