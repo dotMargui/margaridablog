@@ -6,6 +6,7 @@ authors:
   - admin
 tags:
   - receitas
+  - carne
   - cabrito
   - páscoa
   - tradicional
@@ -22,7 +23,7 @@ _Dose_: 8 pessoas
 
 _Tempo_: 60+ minutos 
 
-_Ingredientes:_
+_Ingredientes_:
 
 Para o cabrito:
 - 4,5 kg de cabrito
