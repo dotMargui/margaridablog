@@ -1,6 +1,6 @@
 ---
 title: Arroz de frango no forno "à pato"
-date: 2022-01-01
+date: 2022-04-22T09:30:18.422Z
 summary: ' '
 authors:
   - admin
