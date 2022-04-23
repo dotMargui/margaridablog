@@ -1,5 +1,5 @@
 ---
-title: Ninho de Páscoa com doce de ovos
+title: Ninho de Páscoa com doce de ovos (sem glúten)
 date: 2022-01-01
 summary: ' '
 authors:
@@ -9,6 +9,7 @@ tags:
   - bolos
   - páscoa
   - tradicional
+  - sem glúten
 image:
   filename: featured.jpeg
   focal_point: Smart
