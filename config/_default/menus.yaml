@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: ⚖️ Artigos Jurídicos
-    url: post/
+    url: blog/
     weight: 20
   - name: Sobre mim 
     url: about/
