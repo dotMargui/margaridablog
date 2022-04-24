@@ -18,7 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Olá! Eu sou a **Margarida**. À procura de inspiração? Vieste ao sítio certo!
+Bem-vinda/o ao Blog da **Margarida**!
 {style="font-size: 1.2rem; background: #545454; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
+⚖️​ Jurista 🍲​ alquimista dos tachos 🌼​ de bem com a vida
 Sabe mais sobre mim [aqui](/about/) 😍
