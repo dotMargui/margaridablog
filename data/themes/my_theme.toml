@@ -1,25 +1,17 @@
-# Essentially Minimal theme but with constant home section bg color.
-name = "My theme"
+# Theme metadata
+name = "Coffee"
 
 [light]
   # Primary
-  primary = "#a37445"
+  primary = "#795548"
 
   # Menu
-  menu_primary = "rgb(252, 249, 247)"
-  menu_text = "#34495e"
-  menu_text_active = "#fcf9f7"
-  menu_title = "#2b2b2b"
+  menu_primary = "#795548"
+  menu_text = "rgba(255,255,255,0.6)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "#fff"
 
-  # Home sections
-  home_section_odd = "rgb(252, 249, 247)"
-  home_section_even = "rgb(252, 249, 247)"
-
-[dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
+  # Backgrounds
+  background = "hsla(16, 24%, 85%, 1)"
+  home_section_odd = "hsla(16, 24%, 85%, 1)"
+  home_section_even = "hsla(16, 24%, 85%, 1)"
